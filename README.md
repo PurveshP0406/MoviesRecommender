@@ -15,7 +15,6 @@ Workflow Diagram
 
 
 
-
 ●	Content-based algorithm activity diagram
 
 ![image](https://user-images.githubusercontent.com/62815760/139037267-eba80bbd-accd-4328-a51f-6d8433b40050.png)
@@ -24,7 +23,7 @@ Workflow Diagram
 
 
 
-●	Cosine similarity
+●	Cosine-similarity
 
 
 ![image](https://user-images.githubusercontent.com/62815760/139037289-9a5c3017-6878-410d-ac90-701cb192ece1.png) 
